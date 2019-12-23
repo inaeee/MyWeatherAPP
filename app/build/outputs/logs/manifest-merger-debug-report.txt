@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\41751af6865f7d6e353c9c8de5dfc74f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e0bfaaa0f113e1e1b69a437585f68304\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bccbaf49a10648601e90c157fb915de4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\03f2796ab3b28ce0caa4faa4faaacb35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b3dd372a73087e8426bb3538f92d2c1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\efed1f3c42b42313cb06c19f160cf201\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ad6c1a616000dc51c20595056eb2bde4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b9641489445790fdde8b3ad15a554d45\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7d7621462601d6cec5afbcf9952e7179\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c7783d6861c30b356f81664bf0f4f7a8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9ef6bc2a346ffa4828d34a98dbe83a67\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e1166b9987384f16b5fddb108e5712cc\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e0bfaaa0f113e1e1b69a437585f68304\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e0bfaaa0f113e1e1b69a437585f68304\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:10:9-39
+	android:allowBackup
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.androstock.myweatherapp.MainActivity
+ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:15:9-17:20
+	android:name
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:15:19-47
+activity#com.androstock.myweatherapp.CalendarActivity
+ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:18:19-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:19:9-23:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:22:23-70
+activity#com.androstock.myweatherapp.TodoActivity
+ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:25:9-59
+	android:name
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml:25:19-47
+uses-sdk
+INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\41751af6865f7d6e353c9c8de5dfc74f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\41751af6865f7d6e353c9c8de5dfc74f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e0bfaaa0f113e1e1b69a437585f68304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e0bfaaa0f113e1e1b69a437585f68304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bccbaf49a10648601e90c157fb915de4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bccbaf49a10648601e90c157fb915de4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\03f2796ab3b28ce0caa4faa4faaacb35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\03f2796ab3b28ce0caa4faa4faaacb35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b3dd372a73087e8426bb3538f92d2c1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b3dd372a73087e8426bb3538f92d2c1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\efed1f3c42b42313cb06c19f160cf201\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\efed1f3c42b42313cb06c19f160cf201\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ad6c1a616000dc51c20595056eb2bde4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ad6c1a616000dc51c20595056eb2bde4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b9641489445790fdde8b3ad15a554d45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b9641489445790fdde8b3ad15a554d45\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7d7621462601d6cec5afbcf9952e7179\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7d7621462601d6cec5afbcf9952e7179\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c7783d6861c30b356f81664bf0f4f7a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c7783d6861c30b356f81664bf0f4f7a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9ef6bc2a346ffa4828d34a98dbe83a67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9ef6bc2a346ffa4828d34a98dbe83a67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e1166b9987384f16b5fddb108e5712cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\inaee\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e1166b9987384f16b5fddb108e5712cc\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\inaee\Desktop\MyWeatherApp\MyWeatherApp\app\src\main\AndroidManifest.xml
